@@ -1,0 +1,19 @@
+
+
+
+.linkedin-logo{
+
+    width:10%;
+    height: auto;
+    float: left;
+    margin:15px 20px;
+}  
+
+.card{
+width:30%;
+height:50%;
+background-color:rgb(218, 11, 11);
+
+  box-shadow: 0px 0px 3px 0.3px black;
+
+}

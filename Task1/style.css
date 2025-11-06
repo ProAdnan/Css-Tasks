@@ -1,0 +1,47 @@
+*{
+    text-align: center;
+}
+
+
+.title{
+    font-size: 30px;
+}
+
+.table1{
+    position: fixed;
+    left: 29%;
+    width: 40%;
+    height: 30%;
+}
+
+.table1, th, tr, td{
+    border: 1px solid black;
+    
+}
+
+
+.head-titles th{
+    text-align: right;
+    color: black;
+    background-color:#ffff00;
+}
+
+.row2-d1{
+    background-color:#ffb5c0;
+    text-align: center;
+}
+
+.row2-d{
+
+    text-align: left;
+}
+
+.row3 td{
+
+text-align: left;
+
+}
+
+.row4 td{
+    text-align: left;
+}

@@ -109,8 +109,9 @@ margin-bottom:3%;
   height:56%;
 
 border-radius: 10px;
-  background-color: rgb(255, 255, 255);
 box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+
+  background-color: rgb(255, 255, 255);
 
 position:fixed;
 top:20%;
